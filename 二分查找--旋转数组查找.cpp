@@ -79,6 +79,7 @@ public:
 int main()
 {
 	Solution s;
+	
 	int numbers[] = {5, 6, 7, 8, 9, 0, 1, 2, 3, 4};
 	int size = sizeof(numbers) / sizeof(int);
 	std::vector<int> nums;
